@@ -1,4 +1,4 @@
-# Masters_thesis-
+# Masters Thesis: Exploration Geoscience 
 
 This repository contains two projects I worked on:
 - Topic modelling of geoscience documents using latent dirichlet allocation
